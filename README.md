@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/khallediaziz)](https://leetcode.com/khallediaziz)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/khallediaziz?theme=light,unicorn)](https://leetcode.com/khallediaziz)
 <!--
 **AzizFacilex/AzizFacilex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
