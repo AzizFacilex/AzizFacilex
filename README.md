@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/khallediaziz?theme=light,unicorn)](https://leetcode.com/khallediaziz)
-
 <p align="center">
   <a href="https://github.com/JacobLinCool?tab=repositories">
     <img title="JacobLinCool's Github Stats" alt="JacobLinCool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AzizFacilex&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
