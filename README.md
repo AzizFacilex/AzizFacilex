@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://leetcode-stats-six.vercel.app/?username=khallediaziz&theme=dark)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/khallediaziz)](https://leetcode.com/JacobLinCool)
 <!--
 **AzizFacilex/AzizFacilex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
