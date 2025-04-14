@@ -1,33 +1,16 @@
-### Hi there 👋
+Hi there 👋 I'm Aziz Khalledi
 
-<p align="center">
-  <a href="https://github.com/JacobLinCool?tab=repositories">
-    <img title="JacobLinCool's Github Stats" alt="JacobLinCool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AzizFacilex&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
-  </a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/JacobLinCool#user-activity-overview">
-    <img title="JacobLinCool's Github Streak" alt="JacobLinCool's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizFacilex" />
-  </a>
-</p>
+🚀 Software Engineer | Fullstack Developer | Problem Solver
+💡 Passionate about building scalable web apps and exploring the latest in tech.
 
-<p align="center">
-  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/khallediaziz?theme=unicorn&font=Paprika&ext=activity" />
-  </a>
-</p>
-<!--
-**AzizFacilex/AzizFacilex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    💻 Tech Stack: TypeScript, Vue.js, Nuxt.js, React, Next.js, Node.js, Java, Spring Boot
 
-Here are some ideas to get you started:
+    📍 Based in Berlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🎯 Focused on clean code, performance, and maintainability
+
+    🧠 Constant learner — always exploring tools that push dev productivity
+
+    🧪 Building side projects in AI, automation, and experimental UIs
+
+<p align="center"> <a href="https://github.com/AzizFacilex?tab=repositories"> <img title="Aziz's GitHub Stats" alt="Aziz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AzizFacilex&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" /> </a> </p> <p align="center"> <a href="https://github.com/AzizFacilex#user-activity-overview"> <img title="Aziz's GitHub Streak" alt="Aziz's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizFacilex" /> </a> </p> <p align="center"> <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank"> <img title="Aziz's LeetCode Stats" alt="Aziz's LeetCode Stats" src="https://leetcard.jacoblin.cool/khallediaziz?theme=unicorn&font=Paprika&ext=activity" /> </a> </p>
